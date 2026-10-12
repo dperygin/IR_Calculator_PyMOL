@@ -46,6 +46,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23324151
     description: Zenodo DOI for IR Wavenumber Calculator v1.0.0
+  - type: doi
+    value: 10.5281/zenodo.23325492
+    description: Zenodo DOI for IR Wavenumber Calculator v1.0.1
 preferred-citation:
   type: article
   title: >-

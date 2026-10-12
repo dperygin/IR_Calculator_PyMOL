@@ -63,7 +63,7 @@ If you use this plugin in teaching or research, please cite:
 
 To cite the software itself, please cite the archived release:
 
-> Wydemon, E.; Perygin, D. H.; Ogden, P. B. *IR Wavenumber Calculator Plugin for PyMOL*, version 1.0.0; Zenodo, 2026. https://doi.org/10.5281/zenodo.23324151
+> Wydemon, E.; Perygin, D. H.; Ogden, P. B. *IR Wavenumber Calculator Plugin for PyMOL*, version 1.0.1; Zenodo, 2026. https://doi.org/10.5281/zenodo.23325492
 
 The DOI [10.5281/zenodo.23324150](https://doi.org/10.5281/zenodo.23324150) always resolves to the latest version. Full citation metadata is in [`CITATION.cff`](CITATION.cff).
 
