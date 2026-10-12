@@ -1,5 +1,7 @@
 # IR Wavenumber Calculator Plugin for PyMOL
 
+[![DOI](https://zenodo.org/badge/1415915394.svg)](https://doi.org/10.5281/zenodo.23324150)
+
 An educational PyMOL plugin that calculates approximate IR stretching wavenumbers, reduced masses, and force constants using the harmonic oscillator model, with direct bond selection from 3D structures in PyMOL.
 
 > This tool is intended for teaching. Predicted values are harmonic-oscillator estimates based on approximate force constants, not substitutes for experimental spectra or quantum-chemical frequency calculations.
@@ -59,7 +61,11 @@ If you use this plugin in teaching or research, please cite:
 
 > Wydemon, E.; Perygin, D. H.; Ogden, P. B. Development and Implementation of an Interactive IR Wavenumber Calculator Plugin for PyMOL: Enhancing Student Understanding of Vibrational Spectroscopy Through 3D Molecular Visualization. Manuscript in preparation.
 
-Software citation metadata is in [`CITATION.cff`](CITATION.cff).
+To cite the software itself, please cite the archived release:
+
+> Wydemon, E.; Perygin, D. H.; Ogden, P. B. *IR Wavenumber Calculator Plugin for PyMOL*, version 1.0.0; Zenodo, 2026. https://doi.org/10.5281/zenodo.23324151
+
+The DOI [10.5281/zenodo.23324150](https://doi.org/10.5281/zenodo.23324150) always resolves to the latest version. Full citation metadata is in [`CITATION.cff`](CITATION.cff).
 
 ## License
 

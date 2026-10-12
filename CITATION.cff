@@ -38,12 +38,14 @@ keywords:
   - harmonic oscillator
   - isotope effects
   - chemical education
-# Add after creating the Zenodo release:
-# doi: 10.5281/zenodo.XXXXXXX
-# identifiers:
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
-#     description: Zenodo archive of IR Wavenumber Calculator v1.0.0
+doi: 10.5281/zenodo.23324150
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23324150
+    description: Zenodo concept DOI (all versions; resolves to the latest release)
+  - type: doi
+    value: 10.5281/zenodo.23324151
+    description: Zenodo DOI for IR Wavenumber Calculator v1.0.0
 preferred-citation:
   type: article
   title: >-
