@@ -30,7 +30,7 @@ authors:
       University, Jacksonville, AL 36265
 repository-code: "https://github.com/dperygin/IR_Calculator_PyMOL"
 license: MIT
-version: v1.0.0
+version: v1.0.1
 date-released: "2026-10-12"
 keywords:
   - PyMOL

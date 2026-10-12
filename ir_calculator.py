@@ -12,7 +12,7 @@ Installation:
 Authors: Ella Wydemon, Donna H. Perygin, Phillip B. Ogden
 License: MIT (see LICENSE)
 Repository: https://github.com/dperygin/IR_Calculator_PyMOL
-Version: 1.0 (PyQt5)
+Version: 1.0.1 (PyQt5)
 """
 
 try:
@@ -95,9 +95,9 @@ BOND_DATA = {
     'C-H':   {'k': 477,  'atoms': ['C', 'H'],  'description': 'Carbon-Hydrogen sp3 (alkane -> ~2950 cm⁻¹)',   'multiplicity': 1},
     '=C-H':  {'k': 500,  'atoms': ['C', 'H'],  'description': 'Carbon-Hydrogen sp2 (vinyl / aromatic -> ~3020 cm⁻¹)', 'multiplicity': 1},
     '≡C-H':  {'k': 597,  'atoms': ['C', 'H'],  'description': 'Carbon-Hydrogen sp (terminal alkyne -> ~3300 cm⁻¹)',   'multiplicity': 1},
-    'C-D':   {'k': 500,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp3 (~2100 cm⁻¹)',         'multiplicity': 1},
-    '=C-D':  {'k': 530,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp2 (~2250 cm⁻¹)',         'multiplicity': 1},
-    '≡C-D':  {'k': 590,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp (~2575 cm⁻¹)',          'multiplicity': 1},
+    'C-D':   {'k': 477,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp3 (alkane -> ~2170 cm⁻¹)', 'multiplicity': 1},
+    '=C-D':  {'k': 500,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp2 (vinyl / aromatic -> ~2220 cm⁻¹)', 'multiplicity': 1},
+    '≡C-D':  {'k': 597,  'atoms': ['C', 'D'],  'description': 'Carbon-Deuterium sp (terminal alkyne -> ~2420 cm⁻¹)', 'multiplicity': 1},
     # Carbon-Carbon
     'C-C':   {'k': 450,  'atoms': ['C', 'C'],  'description': 'Carbon-Carbon (single)',                    'multiplicity': 1},
     'C=C':   {'k': 960,  'atoms': ['C', 'C'],  'description': 'Carbon-Carbon (double)',                    'multiplicity': 2},
