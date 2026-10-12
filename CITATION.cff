@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: >-
+  If you use the IR Wavenumber Calculator plugin or its teaching
+  activities, please cite both the accompanying manuscript and this
+  software release.
+type: software
+title: IR Wavenumber Calculator Plugin for PyMOL
+abstract: >-
+  An educational PyMOL plugin that calculates approximate IR stretching
+  wavenumbers, reduced masses, and force constants using the harmonic
+  oscillator model, with direct bond selection from 3D molecular
+  structures and support for isotopic substitution.
+authors:
+  - family-names: Wydemon
+    given-names: Ella
+    affiliation: >-
+      Department of Chemistry and Geosciences, Jacksonville State
+      University, Jacksonville, AL 36265
+  - family-names: Perygin
+    given-names: Donna H.
+    orcid: "https://orcid.org/0009-0000-6979-6033"
+    affiliation: >-
+      Department of Chemistry and Geosciences, Jacksonville State
+      University, Jacksonville, AL 36265
+  - family-names: Ogden
+    given-names: Phillip B.
+    orcid: "https://orcid.org/0009-0006-9312-410X"
+    affiliation: >-
+      Department of Chemistry and Geosciences, Jacksonville State
+      University, Jacksonville, AL 36265
+repository-code: "https://github.com/dperygin/IR_Calculator_PyMOL"
+license: MIT
+version: v1.0.0
+date-released: "2026-10-12"
+keywords:
+  - PyMOL
+  - infrared spectroscopy
+  - harmonic oscillator
+  - isotope effects
+  - chemical education
+# Add after creating the Zenodo release:
+# doi: 10.5281/zenodo.XXXXXXX
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXX
+#     description: Zenodo archive of IR Wavenumber Calculator v1.0.0
+preferred-citation:
+  type: article
+  title: >-
+    Development and Implementation of an Interactive IR Wavenumber
+    Calculator Plugin for PyMOL: Enhancing Student Understanding of
+    Vibrational Spectroscopy Through 3D Molecular Visualization
+  authors:
+    - family-names: Wydemon
+      given-names: Ella
+    - family-names: Perygin
+      given-names: Donna H.
+      orcid: "https://orcid.org/0009-0000-6979-6033"
+    - family-names: Ogden
+      given-names: Phillip B.
+  journal: The Chemical Educator
+  status: in-preparation
